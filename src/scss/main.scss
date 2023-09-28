@@ -1,0 +1,13 @@
+$bg_color: #b3d98f;
+$font_color: black;
+body {
+  background-color: $bg_color;
+  color: $font_color;
+}
+
+$font-stack:Helvetica,sans-serif;
+$font-size:18px;
+.comment{
+  font:100% $font-stack;
+  font-size: 8/10*$font-size;
+}
